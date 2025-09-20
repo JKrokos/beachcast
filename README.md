@@ -2,6 +2,8 @@
 
 A minimal, beautiful weather app that helps you find the perfect beach for your day. Built with React, TypeScript, and Tailwind CSS, BeachCast combines real-time weather data with beach recommendations based on wind conditions.
 
+![BeachCast App Screenshot](beachcast.webp)
+
 ## 🚀 Features
 
 - **Real-time Weather Data** - Get current temperature, wind speed, and direction
